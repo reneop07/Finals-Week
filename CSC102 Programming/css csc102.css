@@ -1,0 +1,110 @@
+
+   body{
+    background: linear-gradient(45deg, #ff0000 30%, #000000)
+
+   }
+   .back{
+        width: 100%;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+
+    }
+
+        header,footer {
+        width: 100%;
+        color: #ffffff;
+
+}
+
+
+p {
+
+text-align: center;
+font-size: 50px;
+font-style: italic;
+color: #ffffff;
+position: relative;
+}
+
+
+h1{
+color: #ffffff;
+text-shadow: #ffffff;
+font-size: xxx-large;
+font-style: oblique;
+transform: translate(800px, 300px);
+
+}
+
+
+.coin{
+
+left: 800px;    
+width: 400px;
+min-height: 400px;
+background-color: rgb(9, 25, 243);
+border: 1px solid #ffffff;
+color: #ffffff;
+border-radius: 200px;
+display: flex;
+align-items:center;
+justify-content: center;
+font-weight: bold;
+font-size: 80px;
+
+}
+
+    #memeimage{
+    position: absolute;
+
+}
+
+    img{
+border-radius: 100px;
+
+
+
+
+}
+
+.gamescreen{
+    background-image: url(Heads\ or\ Tails\ Image.jpg);
+    background-size: 25%;
+
+
+
+}
+
+.week3{
+    background-image: url(Palindrome.jpg);
+    background-size: 50%;
+
+
+
+}
+
+.gameheader{
+transform: none;
+background-color: rgb(9, 25, 243);
+text-align: center;
+}
+
+.gamecontainer{
+display: flex;
+justify-content: center;
+
+}
+
+.gamebuttons {
+
+display: flex;
+justify-content:center;
+flex-grow: 0;
+
+}
+
+
+

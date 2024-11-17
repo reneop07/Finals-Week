@@ -1,0 +1,46 @@
+body{
+
+
+    background-color: rgb(255, 0, 0);
+
+}
+
+p {
+
+background-color: #ff0000;
+text-align: center;
+font-size: 50px;
+font-style: italic;
+color: #ffffff;
+position: relative;
+}
+
+
+h1{
+color: #ffffff;
+text-shadow: #ffffff;
+font-size: xxx-large;
+font-style: oblique;
+transform: translate(800px, 300px);
+
+
+
+}
+
+.coin{
+left: 800px;    
+width: 400px;
+min-height: 400px;
+background-color: rgb(9, 25, 243);
+border: 1px solid #000000;
+border-radius: 200px;
+display: flex;
+align-items:center;
+justify-content: center;
+font-weight: bold;
+font-size: 32px;
+
+
+
+
+}

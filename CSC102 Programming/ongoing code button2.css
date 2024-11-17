@@ -1,0 +1,53 @@
+body{
+
+background-color: lime;
+
+}
+
+p {
+
+background-color: red;
+text-align: center;
+font-size: 50px;
+font-style: italic;
+}
+
+body
+{
+    font: blue;
+    font-style: italic;
+
+}
+
+h1{
+color: #000000;
+text-shadow: #000000;
+font-size: x-large;
+font-style: oblique;
+
+}
+button
+{
+    background-color: #af2c2c;
+    border-radius: 25px;
+    width: 50px;
+    border-style: dashed;
+
+}
+
+.coin{
+width: 200px;
+min-height: 200px;
+background-color: silver;
+border: #000000;
+border-radius: 100px;
+display: flex;
+align-items: center;
+justify-content: center;
+font-weight: bold;
+font-size: 32px;
+
+
+
+
+}
